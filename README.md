@@ -15,6 +15,11 @@ Additional line to the #Intro section
 
 A lot of lectures have been submitted
 
+# Contribution
+
+Fork the Repo
+
 # GitHub Content
+
 Comparison with Repo
 
