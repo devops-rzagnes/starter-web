@@ -5,6 +5,7 @@
 
      Raz Agnes
      rzagnes4@gmail.com
+     DevOps Engineer
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, JAva Programming
