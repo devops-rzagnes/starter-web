@@ -12,6 +12,8 @@ Git and GitHub training
 Additional line to the #Intro section
 Adding GIT rebase lectures
 
+A lot of lectures have been submitted and some still on 
+
 # This is a Git project
 
 A lot of lectures have been submitted
