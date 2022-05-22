@@ -10,6 +10,7 @@ Hi, I'm going to insert conflicts in my feature branch
      DevOps Engineer III
      IT organisation
      Doing some changes in local.
+     Adding important notes
  
 # THANKS
 
