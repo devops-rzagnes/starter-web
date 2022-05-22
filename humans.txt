@@ -10,6 +10,7 @@
 # THANKS
 
     Thanks to all my students
+    Hi, I am modifying the file prior to rebase @ echo "$(date)"
 
 # TECHNOLOGY COLOPHON
 
