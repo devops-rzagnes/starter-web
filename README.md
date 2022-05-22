@@ -15,7 +15,7 @@ Adding GIT rebase lectures
 # This is a Git project
 
 A lot of lectures have been submitted
-
+WE have done so much work together
 # Contribution
 
 Fork the Repo
